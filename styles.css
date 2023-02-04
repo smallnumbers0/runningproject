@@ -16,6 +16,7 @@ h2 {
     color: red;
     margin: 1em auto;
     width: 800px;
+    padding: 1em;
 }
 
 h3 {
@@ -37,7 +38,7 @@ p {
 }
 
 .shoe {
-    color: rgb(93, 10, 171);
+    color: black;
     text-shadow: 1px 1px 2px rgb(93, 10, 171);
 }
 
