@@ -7,16 +7,7 @@
 
 html {
     background-color: black;
-    opacity: 0.85;
-}
-
-body {
-    width: 800px;
-    height: 100%;
-    margin: 10em auto;
-    box-shadow: 4px 4px 9px rgb(53, 12, 157);
-    padding: 1em;
-    background-color: honeydew;
+    opacity: 0.9;
 }
 
 h3 {
@@ -29,7 +20,43 @@ p {
     font-size: 15px;
 }
 
+.content {
+    width: 800px;
+    margin: 10em auto;
+    box-shadow: 4px 4px 9px rgb(53, 12, 157);
+    padding: 1em;
+    background-color: honeydew;
+}
+
 .shoe {
     color: rgb(93, 10, 171);
     text-shadow: 1px 1px 2px rgb(93, 10, 171);
+}
+
+.divide {
+    color: rgb(84, 10, 107);
+}
+
+
+
+footer {
+    width: 800px;
+    margin: 10em auto;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+    border: 1px solid black;
+    box-shadow: 1px 1px 6px yellow;
+    position: fixed;
+    bottom: 0;
+    left: 25%;
+    right: 25%;
+
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    color: rgb(223, 238, 14);
 }
