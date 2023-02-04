@@ -1,3 +1,3 @@
 # Running-Log
 
-Just a log to keep track of my training
+Just a simple running log to keep track of my training.
