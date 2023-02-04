@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: black;
+}
+
+body {
+    width: 700px;
+    height: 100%;
+    margin: 10em auto;
+    box-shadow: 2px 2px 2px 3px rgb(53, 12, 157);
+    padding: 1em;
+    background-color: honeydew;
+}
+
+h4 {
+    margin-top: 0.5em;
+}
+
+.shoe {
+    color: rgb(93, 10, 171);
+    text-shadow: 1px 1px 2px rgb(93, 10, 171);
+}
