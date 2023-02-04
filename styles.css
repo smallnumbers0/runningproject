@@ -1,24 +1,31 @@
 * {
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
     font-family: 'Poor Story', cursive, sans-serif;
 }
 
 html {
     background-color: black;
+    opacity: 0.85;
 }
 
 body {
     width: 700px;
     height: 100%;
     margin: 10em auto;
-    box-shadow: 2px 2px 2px 3px rgb(53, 12, 157);
+    box-shadow: 4px 4px 9px rgb(53, 12, 157);
     padding: 1em;
     background-color: honeydew;
 }
 
 h4 {
     margin-top: 0.5em;
+    font-size: 15px;
+}
+
+p {
+    font-size: 12px;
 }
 
 .shoe {
