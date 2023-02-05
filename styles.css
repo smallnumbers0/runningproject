@@ -37,6 +37,13 @@ p {
     background-color: honeydew;
 }
 
+.speed {
+    margin-top: 0.5em;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(184, 8, 8);
+}
+
 .shoe {
     color: black;
     text-shadow: 1px 1px 2px rgb(93, 10, 171);
