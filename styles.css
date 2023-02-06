@@ -60,10 +60,9 @@ footer {
     text-align: center;
     background-color: rgb(0, 0, 0);
     opacity: 1;
-    border: 1px solid black;
-    box-shadow: 1px 1px 6px yellow;
     position: fixed;
     bottom: 5em;
+
 
 }
 
