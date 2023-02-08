@@ -11,12 +11,14 @@ html {
 }
 
 
+header {
+    width: 800px;
+    margin: 0 auto;
+}
 
 h2 {
     color: red;
-    margin: 1em auto;
-    width: 800px;
-    padding: 1em;
+    padding: 1em 0;
 }
 
 h3 {
@@ -46,13 +48,17 @@ p {
 
 .shoe {
     color: black;
-    text-shadow: 1px 1px 2px rgb(93, 10, 171);
+    text-shadow: 1px 1px 1px rgb(93, 10, 171);
+    border: 1px solid purple;
 }
 
 .divide {
     color: rgb(84, 10, 107);
 }
 
+.distance {
+    background-color: rgb(190, 153, 225);
+}
 
 
 footer {
