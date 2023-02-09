@@ -5,14 +5,13 @@
     font-family: 'Poor Story', cursive, sans-serif;
 }
 
-html {
+body {
     background-color: black;
-    opacity: 0.9;
 }
 
 
 header {
-    width: 800px;
+    width: 50%;
     margin: 0 auto;
 }
 
@@ -32,18 +31,19 @@ p {
 }
 
 .content {
-    width: 800px;
+    width: 50%;
     margin: 0 auto;
     box-shadow: 4px 4px 9px rgb(53, 12, 157);
     padding: 1em;
     background-color: honeydew;
+    border-radius: 5px;
 }
 
 .speed {
     margin-top: 0.5em;
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(184, 8, 8);
+    color: rgb(255, 0, 0);
 }
 
 .shoe {
@@ -60,24 +60,40 @@ p {
     padding: 3px;
 }
 
-
 footer {
     display: flex;
     gap: 1em;
     width: 100%;
     text-align: center;
-    background-color: rgb(0, 0, 0);
     opacity: 1;
     position: fixed;
-    bottom: 5em;
+    bottom: 0.15em;
     justify-content: center;
+    align-items: center;
+}
 
-
+div {
+    display: flex;
+    gap: 1em;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    background: honeydew;
+    box-shadow: 4px 4px 9px rgb(53, 12, 157);
+    padding: 1em;
+    border-radius: 5px;
 }
 
 a {
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
     text-decoration: none;
-    color: rgb(223, 238, 14);
+    color: rgb(61, 6, 134);
+}
+
+a:hover {
+    color: white;
+    text-shadow: 1px 1px 2px black;
 }
