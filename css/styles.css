@@ -30,6 +30,11 @@ p {
     font-size: 18px;
 }
 
+iframe {
+    float: left;
+    margin: 5em 1em 1em 2em;
+}
+
 .content {
     width: 50%;
     margin: 0 auto;
