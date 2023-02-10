@@ -32,7 +32,15 @@ p {
 
 iframe {
     float: left;
-    margin: 5em 1em 1em 2em;
+    margin: 4.9em 1em 1em 2.5em;
+}
+
+img {
+    float: right;
+    margin: 4.9em 2.9em 1em 1em;
+    height: 350px;
+    width: auto;
+    border-radius: 7px;
 }
 
 .content {
