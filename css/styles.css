@@ -9,8 +9,8 @@ body {
     background: url("../images/sunset.jpeg");
     background-size: cover;
     background-color: rgb(34, 40, 40);
-    width: 1400px;
-    margin: 0 auto;
+    width: 80vw;
+    margin: 1em auto;
 }
 
 
@@ -53,7 +53,7 @@ iframe {
     margin: 0 auto;
 }
 .content {
-    width: 80vw;
+    width: 100%;
     margin: 0 auto;
     box-shadow: 4px 4px 9px rgb(53, 12, 157);
     padding: 1em;
@@ -91,7 +91,7 @@ div {
     display: flex;
     margin: 0 auto;
     gap: 1em;
-    width: 1400px;
+    width: 80vw;
     justify-content: center;
     align-items: center;
     background: honeydew;
@@ -121,6 +121,7 @@ a:hover {
     .main {
         display: flex;
         flex-direction: column;
+        flex-wrap: wrap;
         width: 100vw;
         align-items: center;
         margin: 0 auto;
