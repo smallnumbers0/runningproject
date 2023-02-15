@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(117, 188, 170);
     width: 70%;
     margin: 1em auto;
     max-width: 1400px;
@@ -54,7 +54,9 @@ img {
 }
 
 iframe {
+    border: 1px solid white;
 }
+
 .content {
     width: 100%;
     margin: 0 auto;
@@ -74,8 +76,8 @@ iframe {
 }
 
 .shoe {
-    color: black;
-    text-shadow: 1px 1px 1px rgb(93, 10, 171);
+    color: rgb(207, 16, 16);
+    text-shadow: 1px 1px 1px rgb(238, 68, 247);
 }
 
 .divide {
