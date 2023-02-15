@@ -19,7 +19,14 @@ body {
 
 header {
     width: 100%;
-    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    width: 80px;
+    height: 20px;
 }
 
 h2 {
