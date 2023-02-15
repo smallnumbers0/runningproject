@@ -92,8 +92,13 @@ iframe {
     color: rgb(84, 10, 107);
 }
 
-.distance {
+.dark-mode {
+    background-color: rgb(32, 40, 38);
+    color: white;
+}
 
+.dark-content {
+    background: black;
 }
 
 footer {
@@ -128,7 +133,6 @@ a:hover {
     color: white;
     text-shadow: 1px 1px 2px black;
 }
-
 
 
 
