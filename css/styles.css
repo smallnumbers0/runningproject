@@ -62,14 +62,14 @@ img {
 }
 
 iframe {
-    border: 1px solid white;
+    box-shadow: 3px 3px 7px rgb(53, 12, 157);
 }
 
 .content {
     width: 100%;
     margin: 0 auto;
     max-width: 1400px;
-    box-shadow: 4px 4px 9px rgb(53, 12, 157);
+    box-shadow: 3px 3px 7px rgb(53, 12, 157);
     padding: 1em;
     background-color: honeydew;
     border-radius: 5px;
@@ -115,7 +115,7 @@ div {
     justify-content: center;
     align-items: center;
     background: honeydew;
-    box-shadow: 4px 4px 9px rgb(53, 12, 157);
+    box-shadow: 3px 3px 7px rgb(53, 12, 157);
     padding: 5px;
     border-radius: 5px;
 }
